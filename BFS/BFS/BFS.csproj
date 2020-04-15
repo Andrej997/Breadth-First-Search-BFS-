@@ -43,11 +43,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Primer1\Controller\BreadthFirstAlgorithm.cs" />
+    <Compile Include="Primer1\Model\Employee.cs" />
+    <Compile Include="Primer2\Controller\BreadthFirstSearch.cs" />
+    <Compile Include="Primer2\Model\V.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
