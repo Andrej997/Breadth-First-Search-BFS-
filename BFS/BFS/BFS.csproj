@@ -47,6 +47,8 @@
     <Compile Include="Primer1\Model\Employee.cs" />
     <Compile Include="Primer2\Controller\BreadthFirstSearch.cs" />
     <Compile Include="Primer2\Model\V.cs" />
+    <Compile Include="Primer3\Controller\Algorithms.cs" />
+    <Compile Include="Primer3\Model\Graph.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
